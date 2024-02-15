@@ -100,3 +100,9 @@ return 0;
 
 }
 ```
+
+#### desvio de fluxo : parimpar.c
+
+```c
+
+```
